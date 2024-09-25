@@ -45,7 +45,7 @@ Your API Key will look like this ***** but if you copy and paste it will be the 
 
 ## 7. Use your node
 
-I linked up a Load Image Node and sent the out to a Preview Image Node.
+I linked up a Load Image Node and sent the image out to a Preview Image Node.
 
 You can find both under Right Click 
 Add Node -> image -> Load Image
