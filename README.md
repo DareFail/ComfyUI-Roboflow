@@ -9,11 +9,11 @@
 
 ## Included Nodes
 
--  **Background Removal**: Removes the background from an image
+-  **[Background Removal](https://github.com/DareFail/ComfyUI-Roboflow/blob/main/tutorials/backgroundremoval.md)**: Removes the background from an image
 
--  **Label Emotions**: Detects human faces and labels them with the emotion they are expressing.
+-  **[Label Emotions](https://github.com/DareFail/ComfyUI-Roboflow/blob/main/tutorials/labelemotions.md)**: Detects human faces and labels them with the emotion they are expressing.
 
--  **Custom Workflow - 1 Image**: Template for sending an image to a workflow you make and exporting up to 4 images and/or 4 strings to send to other nodes.
+-  **[Custom Workflow - 1 Image](https://github.com/DareFail/ComfyUI-Roboflow/blob/main/tutorials/customworkflow_1image.md)**: Template for sending an image to a workflow you make and exporting up to 4 images and/or 4 strings to send to other nodes.
 
 -  **Detect Objects (Soon)**: Detect objects on an image using YOLO, vLLMs, Clip, or any trained Object Detection / Classification / Instance Segmentation model in the Roboflow Universe.
 
@@ -22,13 +22,6 @@
 -  **Blur Objects (Soon)**: Detect and Blur objects in an image using YOLO, vLLMs, or any trained Object Detection / Instance Segmentation model in the Roboflow Universe.
 
 -  **Crop Objects (Soon)**: Detect and Crop objects in an image using YOLO, vLLMs, or any trained Object Detection / Instance Segmentation model in the Roboflow Universe.
-
-
-
-### Prerequisites
-
-  
-Get your workflow ID and free API key from [Roboflow](https://roboflow.com/) to use this node.
 
   
 
@@ -51,6 +44,10 @@ git clone https://github.com/DareFail/ComfyUI-Roboflow
 
 
 3. Restart ComfyUI and add any node under "Roboflow"
+
+
+4. Get your workflow ID and free API key from [Roboflow](https://roboflow.com/) to use this node.
+
 
 
 
