@@ -2,7 +2,8 @@
 
 You can create whatever workflow you want. This node takes in one image and will output up to 4 images and 4 strings depending on what you are doing.
 
-<img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/c507a617-5c75-475f-9618-0d1ec32212a7">
+<img width="1001" alt="Screenshot 2024-09-25 at 10 36 18 AM" src="https://github.com/user-attachments/assets/0feac52b-dcb5-4684-8345-3ac2a2fe4c7f">
+
 
 
 ## 1. Install ComfyUI-Roboflow
@@ -56,13 +57,13 @@ Your API Key will look like this ***** but if you copy and paste it will be the 
 
 ## 10. Use your node
 
-I linked up a Load Image Node and sent the out to a Preview Image Node.
+I linked up a Load Image Node and sent the image out to a Preview Image Node.
 
 You can find both under Right Click 
 Add Node -> image -> Load Image
 Add Node -> image -> Preview Image
 
-<img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/c507a617-5c75-475f-9618-0d1ec32212a7">
+<img width="1001" alt="Screenshot 2024-09-25 at 10 36 18 AM" src="https://github.com/user-attachments/assets/0feac52b-dcb5-4684-8345-3ac2a2fe4c7f">
 
 
 # Repo Info
