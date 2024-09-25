@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-roboflow"
+description = "This is a ComfyUI node that connects with [a/Roboflow workflows](https://roboflow.com/workflows/build).\nRoboflow hosts hundreds of thousands of open source and custom object detection models."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/DareFail/ComfyUI-Roboflow"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "darefail"
+DisplayName = "ComfyUI-Roboflow"
+Icon = ""
