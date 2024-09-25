@@ -1,6 +1,6 @@
 # Label Emotions Node in ComfyUI-Roboflow
 
-<img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/c507a617-5c75-475f-9618-0d1ec32212a7">
+<img width="372" alt="Screenshot 2024-09-24 at 11 08 52 PM" src="https://github.com/user-attachments/assets/e285157d-a6cc-4cff-87af-f4ea29059a51">
 
 
 ## 1. Install ComfyUI-Roboflow
@@ -21,14 +21,21 @@ Add Node -> Roboflow -> Label Emotions
 In your Roboflow account, go to your workflow page:
 [https://app.roboflow.com/](https://app.roboflow.com/) 
 
+<img width="185" alt="Screenshot 2024-09-25 at 10 11 46 AM" src="https://github.com/user-attachments/assets/a3d6072e-d478-4893-9f3b-d7740734d2d6">
+
+
 
 ## 4. Press "Create Workflow"
 
+<img width="206" alt="Screenshot 2024-09-25 at 10 11 51 AM" src="https://github.com/user-attachments/assets/2b1d2cc7-75eb-4bd1-a3e6-14dc6c6be4e1">
 
 ## 5. Press "Start from a Template"
 
+<img width="447" alt="Screenshot 2024-09-25 at 10 12 08 AM" src="https://github.com/user-attachments/assets/3d366406-2b6d-482b-a171-ab0d7ec047c4">
+
 ## 6. Press "Recognize Emotions"
 
+<img width="1512" alt="Screenshot 2024-09-25 at 10 12 15 AM" src="https://github.com/user-attachments/assets/5b808137-f45e-4940-aabd-7802953f5b29">
 
 ## 7. Click "Deploy Workflow" in the top right
 
@@ -57,7 +64,7 @@ You can find both under Right Click
 Add Node -> image -> Load Image
 Add Node -> image -> Preview Image
 
-<img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/c507a617-5c75-475f-9618-0d1ec32212a7">
+<img width="372" alt="Screenshot 2024-09-24 at 11 08 52 PM" src="https://github.com/user-attachments/assets/e285157d-a6cc-4cff-87af-f4ea29059a51">
 
 
 
