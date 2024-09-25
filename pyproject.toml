@@ -9,6 +9,6 @@ Repository = "https://github.com/DareFail/ComfyUI-Roboflow"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "darefail"
 DisplayName = "ComfyUI-Roboflow"
 Icon = ""
