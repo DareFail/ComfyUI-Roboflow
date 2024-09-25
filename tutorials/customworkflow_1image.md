@@ -19,13 +19,13 @@ Add Node -> Roboflow -> Custom Workflow - 1 Image
 <img width="513" alt="Screenshot 2024-09-25 at 9 38 30 AM" src="https://github.com/user-attachments/assets/c116b47b-fac5-48d1-91ce-45524d7a9d75">
 
 
-## 3. Make your custom workflow
+## 3. Press "Create Workflow" and make your custom workflow
 
-Add blocks or edit from a template here.
+Add any of the blocks or edit from a template here.
 
+<img width="206" alt="Screenshot 2024-09-25 at 10 11 51 AM" src="https://github.com/user-attachments/assets/2b1d2cc7-75eb-4bd1-a3e6-14dc6c6be4e1">
 
 ## 4. Click the Response node in your workflow
-
 
 ## 5. Copy the output names you care about
 
