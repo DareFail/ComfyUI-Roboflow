@@ -27,13 +27,22 @@ Add any of the blocks or edit from a template here.
 
 ## 4. Click the Response node in your workflow
 
+<img width="260" alt="4" src="https://github.com/user-attachments/assets/2c314557-f791-475a-ad3c-1b50b48eb0ae">
+
+
 ## 5. Copy the output names you care about
+
+<img width="377" alt="5" src="https://github.com/user-attachments/assets/02358e79-bd76-4e7f-ab28-b47d3d6a90d9">
+
 
 ## 6. Paste the output names as keys in your ComfyUI Node
 
 Output images are go under output_image1_key, output_image2_key, etc
 
 Your input_image1_key is always "image" unless you changed it in Roboflow.
+
+<img width="261" alt="6" src="https://github.com/user-attachments/assets/0b17f97f-2f7e-4904-b876-8d0d29b2981f">
+
 
 
 ## 7. Go back to Roboflow and click "Deploy Workflow" in the top right
