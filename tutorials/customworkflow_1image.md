@@ -32,13 +32,15 @@ Add blocks or edit from a template here.
 
 Output images are go under output_image1_key, output_image2_key, etc
 
+Your input_image1_key is always "image" unless you changed it in Roboflow.
 
-## 5. Go back to Roboflow and click "Deploy Workflow" in the top right
+
+## 7. Go back to Roboflow and click "Deploy Workflow" in the top right
 
 <img width="459" alt="Screenshot 2024-09-25 at 9 54 13 AM" src="https://github.com/user-attachments/assets/6c8998a9-574e-411b-a157-98281fb84b51">
 
 
-## 6. Copy your API Key, workspace name, and workflow id
+## 8. Copy your API Key, workspace name, and workflow id
 
 You can copy each part under the python section
 
@@ -47,12 +49,12 @@ Your API Key will look like this ***** but if you copy and paste it will be the 
 <img width="743" alt="Screenshot 2024-09-25 at 9 54 04 AM" src="https://github.com/user-attachments/assets/7e917c40-4fae-4cde-b94d-47b61474acd6">
 
 
-## 6. Paste the information above into your node
+## 9. Paste the information above into your node
 
 <img width="425" alt="Screenshot 2024-09-25 at 10 04 13 AM" src="https://github.com/user-attachments/assets/79518535-2739-47f8-b6a6-c7c44fa20f28">
 
 
-## 7. Use your node
+## 10. Use your node
 
 I linked up a Load Image Node and sent the out to a Preview Image Node.
 
