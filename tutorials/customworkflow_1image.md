@@ -1,4 +1,6 @@
-# Background Removal Node in ComfyUI-Roboflow
+# Custom Workflow - 1 Image in ComfyUI-Roboflow
+
+You can create whatever workflow you want. This node takes in one image and will output up to 4 images and 4 strings depending on what you are doing.
 
 <img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/c507a617-5c75-475f-9618-0d1ec32212a7">
 
@@ -7,29 +9,36 @@
 
 Follow the instructions in [README.md](https://github.com/DareFail/ComfyUI-Roboflow?tab=readme-ov-file#installation)
 
-## 2. Add the Roboflow Remove Background Node
+## 2. Add the Roboflow Custom Workflow - 1 Image Node
 
 Right-click
 
-Add Node -> Roboflow -> Remove Background
+Add Node -> Roboflow -> Custom Workflow - 1 Image
 
 <img width="513" alt="Screenshot 2024-09-25 at 9 38 30 AM" src="https://github.com/user-attachments/assets/c116b47b-fac5-48d1-91ce-45524d7a9d75">
 
 
-## 3. Add the Roboflow Remove Background Template
+## 3. Make your custom workflow
 
-In your Roboflow account, go to the [workflow templates page](https://roboflow.com/workflows/templates) and click "Remove the background from an image"
-
-You can go directly to that template at this link:
-[https://app.roboflow.com/workflows/embed/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd0lkIjoicm1hMklYUk5ycEhCMlhiM012MzkiLCJ3b3Jrc3BhY2VJZCI6ImtyT1RBYm5jRmhvUU1DZExPbGU0IiwidXNlcklkIjoiSW1GTElaU2tHYk55OXpiNFV1cWxNelBScHBRMiIsImlhdCI6MTcyNDgwNzExMH0.OampfxwhLEwetcgxV0W-XhC7nWQJq5WxQ9IYbVjyCMA](https://app.roboflow.com/workflows/embed/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd0lkIjoicm1hMklYUk5ycEhCMlhiM012MzkiLCJ3b3Jrc3BhY2VJZCI6ImtyT1RBYm5jRmhvUU1DZExPbGU0IiwidXNlcklkIjoiSW1GTElaU2tHYk55OXpiNFV1cWxNelBScHBRMiIsImlhdCI6MTcyNDgwNzExMH0.OampfxwhLEwetcgxV0W-XhC7nWQJq5WxQ9IYbVjyCMA)
+Add blocks or edit from a template here.
 
 
-## 4. Click "Deploy Workflow" in the top right
+## 4. Click the Response node in your workflow
+
+
+## 5. Copy the output names you care about
+
+## 6. Paste the output names as keys in your ComfyUI Node
+
+Output images are go under output_image1_key, output_image2_key, etc
+
+
+## 5. Go back to Roboflow and click "Deploy Workflow" in the top right
 
 <img width="459" alt="Screenshot 2024-09-25 at 9 54 13 AM" src="https://github.com/user-attachments/assets/6c8998a9-574e-411b-a157-98281fb84b51">
 
 
-## 5. Copy your API Key, workspace name, and workflow id
+## 6. Copy your API Key, workspace name, and workflow id
 
 You can copy each part under the python section
 
