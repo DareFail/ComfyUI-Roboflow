@@ -1,4 +1,4 @@
-<img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/70969975-d0f5-4b7b-87a7-42dbad527235"># Background Removal Node in ComfyUI-Roboflow
+# Background Removal Node in ComfyUI-Roboflow
 
 <img width="1091" alt="Screenshot 2024-09-25 at 10 04 25 AM" src="https://github.com/user-attachments/assets/c507a617-5c75-475f-9618-0d1ec32212a7">
 
