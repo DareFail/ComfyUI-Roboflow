@@ -8,7 +8,8 @@
 
   Workflows has a node based drag & drop system similar to ComfyUI that can optionally be hosted. The default setting for this repository is to use the hosted version.
 
-<img width="372" alt="Screenshot 2024-09-24 at 11 08 52 PM" src="https://github.com/user-attachments/assets/e285157d-a6cc-4cff-87af-f4ea29059a51">
+
+  <img width="372" alt="Screenshot 2024-09-24 at 11 08 52 PM" src="https://github.com/user-attachments/assets/e285157d-a6cc-4cff-87af-f4ea29059a51">
 
 
 ## Included Nodes
