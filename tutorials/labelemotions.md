@@ -1,6 +1,7 @@
 # Label Emotions Node in ComfyUI-Roboflow
 
-<img width="372" alt="Screenshot 2024-09-24 at 11 08 52 PM" src="https://github.com/user-attachments/assets/e285157d-a6cc-4cff-87af-f4ea29059a51">
+  <img width="778" alt="Screenshot 2024-09-24 at 10 46 29 PM" src="https://github.com/user-attachments/assets/d227ad72-c5a1-4dd1-a35c-ba1df2f2c8f9">
+
 
 
 ## 1. Install ComfyUI-Roboflow
@@ -64,7 +65,8 @@ You can find both under Right Click
 Add Node -> image -> Load Image
 Add Node -> image -> Preview Image
 
-<img width="372" alt="Screenshot 2024-09-24 at 11 08 52 PM" src="https://github.com/user-attachments/assets/e285157d-a6cc-4cff-87af-f4ea29059a51">
+  <img width="778" alt="Screenshot 2024-09-24 at 10 46 29 PM" src="https://github.com/user-attachments/assets/d227ad72-c5a1-4dd1-a35c-ba1df2f2c8f9">
+
 
 
 
